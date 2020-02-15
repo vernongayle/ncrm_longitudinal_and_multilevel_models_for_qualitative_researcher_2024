@@ -1,0 +1,2 @@
+# ncrm_statistical_models_for_qualitative_researchers
+An Introduction to Statistical Modelling for Qualitative Researchers
