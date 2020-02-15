@@ -10,16 +10,22 @@
 ### A half day training workshop led by Professor Vernon Gayle, University of Edinburgh.
 <br>
 
+### Outline:
 
-### Rationale: 
 
-Statistical models are increasingly common in social science research. Many researchers whose interests are substantive rather than methodological struggle to understand these techniques and are disinclined to engage with research that employs these approaches. This workshop is designed for researchers who would like to learn about statistical modelling.
+Statistical models are increasingly common in social science research. Many researchers whose interests are substantive rather than methodological struggle to understand these techniques and are disinclined to engage with research that employs these approaches.  This workshop is designed for researchers who would like to learn about statistical modelling. <br>
 
-This one-day seminar will be orientated towards researchers who do not normally use statistical methods but would like to be introduced to statistical modelling. It will be ideal for busy researchers who do not have time to go on longer workshops or courses. It will also be a useful refresher course for researchers whose last encounter with statistics was during their undergraduate degree. If you frequently skip over graphs and tables of modelling results when reading journal articles, then you will benefit from attending this workshop.
+This half day workshop will be orientated towards researchers who do not normally use statistical methods but would like to be introduced to statistical modelling. It will be ideal for busy researchers who do not have time to go on longer workshops or courses. It will also be a useful refresher course for researchers whose last encounter with statistics was during their undergraduate degree. <br>
 
-The event is intended to be engaging and informative and there will be a number of group activities, as well as audience participation and practical demonstrations. Mathematical ability is not required.
+If you frequently skip over tables of statistical modelling results when reading journal articles then you will benefit from attending this workshop. <br>
 
-This workshop is a taster session. Conceptual ideas relating to statistical modelling will be introduced at a level that, although technically elementary, shows how statistical ideas can address major social scientific issues. The workshop will point to training courses (offered by AQMEN and at other UK universities) where greater depth of technical competence can be acquired.
+The event is intended to be engaging and informative and there will be audience participation and practical demonstrations. <br>
+
+Mathematical ability is not required. <br>
+
+Conceptual ideas relating to statistical modelling will be introduced at a level that, although technically elementary, shows how statistical ideas can address major social scientific issues. <br>
+
+The workshop will also point to training resources where greater depth of technical competence can be acquired.
 
 
 ### Topics: 
