@@ -4,7 +4,7 @@
 ## This is a NCRM repository for *An Introduction to Statistical Modelling for Qualitative Researchers*
 
 
-### Workshop (April 2020)
+### Workshop (October 2020)
 
 ### A half day training workshop led by Professor Vernon Gayle, University of Edinburgh.
 <br>
