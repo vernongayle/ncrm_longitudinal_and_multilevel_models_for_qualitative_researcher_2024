@@ -6,7 +6,7 @@
 
 ### Workshop (October 2020)
 
-### A half day training workshop led by Professor Vernon Gayle, University of Edinburgh.
+### A one day training workshop led by Professor Vernon Gayle, University of Edinburgh.
 <br>
 
 ### Outline:
