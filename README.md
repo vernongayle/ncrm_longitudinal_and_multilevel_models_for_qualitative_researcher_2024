@@ -25,23 +25,6 @@ The event is intended to be engaging and informative. <br>
 
 Mathematical ability is not required. <br>
 
-Conceptual ideas relating to statistical modelling will be introduced at a level that, although technically elementary, shows how statistical ideas can address major social scientific issues. 
-The workshop will also point to training resources where greater depth of technical competence can be acquired.
-
-Statistical models are increasingly common in social science research. Many researchers whose interests are substantive rather than methodological struggle to understand these techniques and are disinclined to engage with research that employs these approaches.  This workshop is designed for researchers who would like to learn about statistical modelling. <br>
-
-This half day workshop will be orientated towards researchers who do not normally use statistical methods but would like to be introduced to statistical modelling. It will be ideal for busy researchers who do not have time to go on longer workshops or courses. It will also be a useful refresher course for researchers whose last encounter with statistics was during their undergraduate degree. <br>
-
-If you frequently skip over tables of statistical modelling results when reading journal articles then you will benefit from attending this workshop. <br>
-
-The event is intended to be engaging and informative and there will be audience participation and practical demonstrations. <br>
-
-Mathematical ability is not required. <br>
-
-Conceptual ideas relating to statistical modelling will be introduced at a level that, although technically elementary, shows how statistical ideas can address major social scientific issues. <br>
-
-The workshop will also point to training resources where greater depth of technical competence can be acquired.<br>
-
 
 ### Topics: 
 
@@ -60,7 +43,7 @@ Statistical Data Analysis Software <br>
 
 These links are to Amazon (https://www.amazon.co.uk) but there are a number of other reputable academic book sellers (e.g. https://blackwells.co.uk/bookshop/shops/).
 
-#### General Texts
+#### General Texts on Statistical Analysis of Social Science Data 
 
 Pevalin, D. and Robson, K., 2009. The Stata survival manual. McGraw-Hill Education (UK).
 https://www.amazon.co.uk/stata-survival-manual-Pevalin/dp/0335223885/ref=sr_1_1?ie=UTF8&qid=1530725105&sr=8-1&keywords=stata+survival+manual<br>
