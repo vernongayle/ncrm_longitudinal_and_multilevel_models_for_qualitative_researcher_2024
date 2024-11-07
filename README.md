@@ -1,4 +1,4 @@
-# An Introduction to Statistical Modelling for Qualitative Researchers<br>
+# Multilevel and Longitudinal Statistical Modelling for Qualitative Researchers <br>
 <br>
 
 ## This is a NCRM repository for *An Introduction to Statistical Modelling for Qualitative Researchers*
