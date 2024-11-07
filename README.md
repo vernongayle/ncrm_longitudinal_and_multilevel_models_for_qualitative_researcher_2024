@@ -4,13 +4,27 @@
 ## This is a NCRM repository for *An Introduction to Statistical Modelling for Qualitative Researchers*
 
 
-### Workshop (Spring 2023)
+### Workshop (November 2024)
 
 ### A one day training workshop led by Professor Vernon Gayle, University of Edinburgh.
 <br>
 
 ### Outline:
 
+Multilevel and longitudinal statistical models are increasingly common in social science research. Many researchers whose interests are substantive rather than methodological struggle to understand these techniques and they are disinclined to engage with research that employs these approaches. <br>
+<br>
+This workshop is designed for researchers who would like to learn about multilevel and longitudinal statistical models. <br>
+
+This one day workshop will be orientated towards researchers who do not normally use statistical methods but would like to be introduced to multilevel and longitudinal statistical models. It will be ideal for busy researchers who do not have time to go on longer workshops or courses. It will also be a useful refresher course for researchers whose last encounter with statistics was during their undergraduate degree. <br>
+
+If you frequently skip over tables of statistical modelling results when reading journal articles, then you will benefit from attending this workshop. <br>
+
+The event is intended to be engaging and informative. <br>
+
+Mathematical ability is not required. <br>
+
+Conceptual ideas relating to statistical modelling will be introduced at a level that, although technically elementary, shows how statistical ideas can address major social scientific issues. 
+The workshop will also point to training resources where greater depth of technical competence can be acquired.
 
 Statistical models are increasingly common in social science research. Many researchers whose interests are substantive rather than methodological struggle to understand these techniques and are disinclined to engage with research that employs these approaches.  This workshop is designed for researchers who would like to learn about statistical modelling. <br>
 
@@ -24,21 +38,21 @@ Mathematical ability is not required. <br>
 
 Conceptual ideas relating to statistical modelling will be introduced at a level that, although technically elementary, shows how statistical ideas can address major social scientific issues. <br>
 
-The workshop will also point to training resources where greater depth of technical competence can be acquired.
+The workshop will also point to training resources where greater depth of technical competence can be acquired.<br>
 
 
 ### Topics: 
 
-Basic Concepts in Statistical Data Analysis <br>
 Probability <br>
 Significance Tests <br>
 Relationships in Data <br>
 Correlations <br>
 Confidence Intervals <br>
 Bivariate Relationships <br>
-Ordinary Least Squares <br>
-Statistical Data Analysis Software <br>
+Multivariate Relationships <br>
 Interpreting Statistical Modelling Results <br>
+Statistical Data Analysis Software <br>
+
 
 
 ### Link to Research Example
