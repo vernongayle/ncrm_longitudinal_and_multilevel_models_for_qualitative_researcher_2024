@@ -1,7 +1,7 @@
 # Multilevel and Longitudinal Statistical Modelling for Qualitative Researchers <br>
 <br>
 
-#THIS SITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE COMPLETED BY MONDAY 11th November~ <br>
+# THIS SITE IS CURRENTLY UNDER CONSTRUCTION AND WILL BE COMPLETED BY MONDAY 11th November # <br>
 
 ## This is a NCRM repository for *An Introduction to Statistical Modelling for Qualitative Researchers*
 
