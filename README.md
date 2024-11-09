@@ -57,6 +57,12 @@ Kohler, U. and Kreuter, F., 2012. Data analysis using Stata. Stata press.
 https://www.amazon.co.uk/Data-Analysis-Using-Stata-Third/dp/1597181102/ref=sr_1_1?s=books&ie=UTF8&qid=1530725888&sr=1-1&keywords=kohler+and+kreuter<br>
 _This is a first class text book. It is clearly written and very comprehensive and has successfully been used as a core textbook on several courses that I have taught._
 
+#### Transparent and Reproducible Research 
+
+Gayle, V. and Connelly, R., 2022. The Stark realities of reproducible statistically orientated sociological research: Some newer rules of the sociological method. Methodological Innovations, 15(3), pp.207-221.
+https://journals.sagepub.com/doi/pdf/10.1177/20597991221111681
+_Our paper on reproducible research._
+
 #### The Workflow in Statistical Data Analysis
 
 Gayle, V.J. and Lambert, P.S. (2017) The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working Paper. NCRM.
@@ -75,7 +81,7 @@ _My recent book on longitudinal data analysis (using Stata)._
 
 
 
-### Software Websites
+#### Software Websites
 
 SPSS	www.ibm.com/DataStatistics/SPSS <br>
 SAS  	www.sas.com <br>
