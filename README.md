@@ -39,11 +39,13 @@ Interpreting Statistical Modelling Results <br>
 Statistical Data Analysis Software <br>
 
 
-### Reading List: 
+### Resources List: 
 
-These links are to Amazon (https://www.amazon.co.uk) but there are a number of other reputable academic book sellers (e.g. https://blackwells.co.uk/bookshop/shops/).
+Centre for Multilevel Modelling, University of Bristol https://www.bristol.ac.uk/cmm/
 
 #### General Texts on Statistical Analysis of Social Science Data 
+
+These links are to Amazon (https://www.amazon.co.uk) but there are a number of other reputable academic book sellers (e.g. https://blackwells.co.uk/bookshop/shops/).
 
 Pevalin, D. and Robson, K., 2009. The Stata survival manual. McGraw-Hill Education (UK).
 https://www.amazon.co.uk/stata-survival-manual-Pevalin/dp/0335223885/ref=sr_1_1?ie=UTF8&qid=1530725105&sr=8-1&keywords=stata+survival+manual<br>
@@ -60,7 +62,7 @@ _This is a first class text book. It is clearly written and very comprehensive a
 #### Transparent and Reproducible Research 
 
 Gayle, V. and Connelly, R., 2022. The Stark realities of reproducible statistically orientated sociological research: Some newer rules of the sociological method. Methodological Innovations, 15(3), pp.207-221.
-https://journals.sagepub.com/doi/pdf/10.1177/20597991221111681
+https://journals.sagepub.com/doi/pdf/10.1177/20597991221111681 <br>
 _Our paper on reproducible research._
 
 #### The Workflow in Statistical Data Analysis
@@ -79,20 +81,35 @@ Gayle, V. and Lambert, P., 2018. What is Quantitative Longitudinal Data Analysis
 https://www.amazon.co.uk/Quantitative-Longitudinal-Analysis-Research-Methods/dp/1472515404/ref=sr_1_1?s=books&ie=UTF8&qid=1530726864&sr=1-1&keywords=vernon+gayle<br>
 _My recent book on longitudinal data analysis (using Stata)._
 
+#### Lectures and Presentations
+
+NCRM Playlist Multilevel Model – Ian Brunton-Smith
+Https://www.youtube.com/playlist?list=PL-XAd1-IhZXZxcWfV0ErYVwPSvGzZ2Lup  
+
+methodsMcr Mark Tranmer Multilevel Modelling 
+https://youtu.be/_lrB-ZaLQE0
+
+Sheffield DTP Andrew Bell 
+https://www.youtube.com/watch?v=_7sp2-aJFUI 
+
+Historical Interview with the late Harvey Goldsteinhttps://www.youtube.com/watch?v=qG037-GDfm8
+![image](https://github.com/user-attachments/assets/8cd7f4d6-ca41-4f13-9642-617e7fbd6a55)
 
 
-#### Software Websites
 
+#### Data Analysis Software Websites (in no particular order)
+
+Stata https://www.stata.com/
 SPSS	www.ibm.com/DataStatistics/SPSS <br>
 SAS  	www.sas.com <br>
 R		https://cran.r-project.org <br>
 Python	www.python.org <br>
 Julia	https://julialang.org/ <br>
-
+MLwiN https://www.bristol.ac.uk/cmm/software/mlwin/
 <br>
 
 
-### Useful Stata Related Websites
+### Useful Stata Related Websites 
 
 https://stats.idre.ucla.edu/stata/  <br>
 https://www.stata.com  <br>
