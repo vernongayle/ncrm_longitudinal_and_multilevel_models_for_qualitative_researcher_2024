@@ -43,6 +43,16 @@ Statistical Data Analysis Software <br>
 
 Centre for Multilevel Modelling, University of Bristol https://www.bristol.ac.uk/cmm/
 
+#### Further Reading
+
+Luke, D.A., 2019. Multilevel modeling (Vol. 143). Sage publications. <br>
+https://uk.sagepub.com/en-gb/eur/multilevel-modeling/book243884 <br>
+_An accessible introduction._
+
+Gelman, A., & Hill, J. (2006). Data Analysis Using Regression and Multilevel/Hierarchical Models. Cambridge: Cambridge University Press. <br>
+https://www.cambridge.org/highereducation/books/data-analysis-using-regression-and-multilevel-hierarchical-models/32A29531C7FD730C3A68951A17C9D983#overview <br>
+_An authoratative text. There is a great deal of highly technical information. Part of the text seem imppenetrable._
+
 #### General Texts on Statistical Analysis of Social Science Data 
 
 These links are to Amazon (https://www.amazon.co.uk) but there are a number of other reputable academic book sellers (e.g. https://blackwells.co.uk/bookshop/shops/).
