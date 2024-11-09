@@ -45,13 +45,21 @@ Centre for Multilevel Modelling, University of Bristol https://www.bristol.ac.uk
 
 #### Further Reading
 
+Leyland, A.H. and Groenewegen, P.P., 2020. Multilevel modelling for public health and health services research: health in context (p. 286). Springer Nature. <br>
+https://www.ncbi.nlm.nih.gov/books/NBK565712/ <br>
+_A very clear short introduction._
+
 Luke, D.A., 2019. Multilevel modeling (Vol. 143). Sage publications. <br>
 https://uk.sagepub.com/en-gb/eur/multilevel-modeling/book243884 <br>
 _An accessible introduction._
 
+Skrondal, A. and Rabe-Hesketh, S., 2004. Generalized latent variable modeling: Multilevel, longitudinal, and structural equation models. Chapman and Hall/CRC.<br>
+https://www.taylorfrancis.com/books/mono/10.1201/9780203489437/generalized-latent-variable-modeling-anders-skrondal-sophia-rabe-hesketh <br>
+_An authoratative text. There is a great deal of highly technical information. Parts of the text seem imppenetrable._
+
 Gelman, A., & Hill, J. (2006). Data Analysis Using Regression and Multilevel/Hierarchical Models. Cambridge: Cambridge University Press. <br>
 https://www.cambridge.org/highereducation/books/data-analysis-using-regression-and-multilevel-hierarchical-models/32A29531C7FD730C3A68951A17C9D983#overview <br>
-_An authoratative text. There is a great deal of highly technical information. Part of the text seem imppenetrable._
+_An authoratative text. There is a great deal of highly technical information. Parts of the text seem imppenetrable._
 
 #### General Texts on Statistical Analysis of Social Science Data 
 
