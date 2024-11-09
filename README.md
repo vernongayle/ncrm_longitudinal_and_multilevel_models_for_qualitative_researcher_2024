@@ -86,6 +86,8 @@ _My book on longitudinal data analysis (using Stata)._
 NCRM Playlist Multilevel Model – Ian Brunton-Smith <br>
 Https://www.youtube.com/playlist?list=PL-XAd1-IhZXZxcWfV0ErYVwPSvGzZ2Lup   <br>
 
+methodsMcr Mark Tranmer Multilevel Modelling <br>
+https://youtu.be/_lrB-ZaLQE0 <br>
 
 
 #### Data Analysis Software Websites (in no particular order)
