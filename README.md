@@ -39,6 +39,9 @@ Statistical Data Analysis Software <br>
 
 ### Resources List: 
 
+Goldstein, H., Burgess, S. and McConnell, B., 2007. Modelling the effect of pupil mobility on school differences in educational achievement. Journal of the royal statistical society series A: statistics in society, 170(4), pp.941-954. <br>
+https://academic.oup.com/jrsssa/article/170/4/941/7085397?casa_token=SYzn5rRTAGUAAAAA:1wm5TiiGQ-STEcUFdZTLE1w-u5gfGuUu7pOka9j14rkI4PQNs1CP9oSkIowsYtEaw_EizfTRL6arr-I  <br>
+
 Centre for Multilevel Modelling, University of Bristol https://www.bristol.ac.uk/cmm/
 
 #### Useful Lectures and Presentations
