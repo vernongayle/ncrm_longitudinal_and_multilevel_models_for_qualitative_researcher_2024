@@ -43,6 +43,21 @@ Statistical Data Analysis Software <br>
 
 Centre for Multilevel Modelling, University of Bristol https://www.bristol.ac.uk/cmm/
 
+#### Useful Lectures and Presentations
+
+NCRM Playlist Multilevel Model – Ian Brunton-Smith <br>
+Https://www.youtube.com/playlist?list=PL-XAd1-IhZXZxcWfV0ErYVwPSvGzZ2Lup   <br>
+
+methodsMcr Mark Tranmer Multilevel Modelling <br>
+https://youtu.be/_lrB-ZaLQE0 <br>
+
+Sheffield DTP Andrew Bell <br>
+https://www.youtube.com/watch?v=_7sp2-aJFUI <br>
+
+Historical Interview with the late Harvey Goldstein <br>
+https://www.youtube.com/watch?v=qG037-GDfm8 <br>
+
+
 #### Further Reading
 
 Leyland, A.H. and Groenewegen, P.P., 2020. Multilevel modelling for public health and health services research: health in context (p. 286). Springer Nature. <br>
@@ -98,20 +113,6 @@ _A fantastic book. This is the 'bible' of good data analysis workflow practices.
 Gayle, V. and Lambert, P., 2021. Quantitative Longitudinal Data Analysis. Bloomsbury Publishing.
 https://www.bloomsbury.com/uk/quantitative-longitudinal-data-analysis-9781350188860<br>
 _My book on longitudinal data analysis (using Stata)._
-
-#### Lectures and Presentations
-
-NCRM Playlist Multilevel Model – Ian Brunton-Smith <br>
-Https://www.youtube.com/playlist?list=PL-XAd1-IhZXZxcWfV0ErYVwPSvGzZ2Lup   <br>
-
-methodsMcr Mark Tranmer Multilevel Modelling <br>
-https://youtu.be/_lrB-ZaLQE0 <br>
-
-Sheffield DTP Andrew Bell <br>
-https://www.youtube.com/watch?v=_7sp2-aJFUI <br>
-
-Historical Interview with the late Harvey Goldstein <br>
-https://www.youtube.com/watch?v=qG037-GDfm8 <br>
 
 
 #### Data Analysis Software Websites (in no particular order)
