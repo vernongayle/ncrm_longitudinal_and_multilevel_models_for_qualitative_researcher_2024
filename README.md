@@ -89,6 +89,12 @@ Https://www.youtube.com/playlist?list=PL-XAd1-IhZXZxcWfV0ErYVwPSvGzZ2Lup   <br>
 methodsMcr Mark Tranmer Multilevel Modelling <br>
 https://youtu.be/_lrB-ZaLQE0 <br>
 
+Sheffield DTP Andrew Bell <br>
+https://www.youtube.com/watch?v=_7sp2-aJFUI <br>
+
+Historical Interview with the late Harvey Goldstein <br>
+https://www.youtube.com/watch?v=qG037-GDfm8 <br>
+
 
 #### Data Analysis Software Websites (in no particular order)
 
