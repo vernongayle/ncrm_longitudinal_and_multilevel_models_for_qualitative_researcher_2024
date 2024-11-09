@@ -51,8 +51,8 @@ Pevalin, D. and Robson, K., 2009. The Stata survival manual. McGraw-Hill Educati
 https://www.amazon.co.uk/stata-survival-manual-Pevalin/dp/0335223885/ref=sr_1_1?ie=UTF8&qid=1530725105&sr=8-1&keywords=stata+survival+manual<br>
 _Many students like this introductory textbook._
 
-Mehmetoglu, M. and Jakobsen, T.G., 2016. Applied statistics using Stata: a guide for the social sciences. Sage.
-https://www.amazon.co.uk/Applied-Statistics-Using-Stata-Sciences/dp/1473913233/ref=sr_1_2?s=books&ie=UTF8&qid=1530725649&sr=1-2&keywords=Stata<br>
+Mehmetoglu, M. and Jakobsen, T.G., 2022. Applied statistics using Stata: a guide for the social sciences. Sage.
+https://www.stata.com/bookstore/applied-statistics-using-stata/<br>
 _This is a first class text book. It is clearly written and very comprehensive_
 
 Kohler, U. and Kreuter, F., 2012. Data analysis using Stata. Stata press.
