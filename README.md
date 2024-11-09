@@ -77,9 +77,9 @@ _A fantastic book. This is the 'bible' of good data analysis workflow practices.
 
 #### Longitudinal Data Analysis
 
-Gayle, V. and Lambert, P., 2018. What is Quantitative Longitudinal Data Analysis?. Bloomsbury Publishing.
-https://www.amazon.co.uk/Quantitative-Longitudinal-Analysis-Research-Methods/dp/1472515404/ref=sr_1_1?s=books&ie=UTF8&qid=1530726864&sr=1-1&keywords=vernon+gayle<br>
-_My recent book on longitudinal data analysis (using Stata)._
+Gayle, V. and Lambert, P., 2021. Quantitative Longitudinal Data Analysis. Bloomsbury Publishing.
+https://www.bloomsbury.com/uk/quantitative-longitudinal-data-analysis-9781350188860<br>
+_My book on longitudinal data analysis (using Stata)._
 
 #### Lectures and Presentations
 
