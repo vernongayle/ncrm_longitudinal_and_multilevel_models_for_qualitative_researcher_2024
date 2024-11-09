@@ -84,17 +84,17 @@ _My book on longitudinal data analysis (using Stata)._
 #### Lectures and Presentations
 
 NCRM Playlist Multilevel Model – Ian Brunton-Smith
-Https://www.youtube.com/playlist?list=PL-XAd1-IhZXZxcWfV0ErYVwPSvGzZ2Lup  
+Https://www.youtube.com/playlist?list=PL-XAd1-IhZXZxcWfV0ErYVwPSvGzZ2Lup   <br>
 
 methodsMcr Mark Tranmer Multilevel Modelling 
-https://youtu.be/_lrB-ZaLQE0
+https://youtu.be/_lrB-ZaLQE0 <br>
 
 Sheffield DTP Andrew Bell 
-https://www.youtube.com/watch?v=_7sp2-aJFUI 
+https://www.youtube.com/watch?v=_7sp2-aJFUI <br>
 
 Historical Interview with the late Harvey Goldsteinhttps://www.youtube.com/watch?v=qG037-GDfm8
 ![image](https://github.com/user-attachments/assets/8cd7f4d6-ca41-4f13-9642-617e7fbd6a55)
-
+<br>
 
 
 #### Data Analysis Software Websites (in no particular order)
